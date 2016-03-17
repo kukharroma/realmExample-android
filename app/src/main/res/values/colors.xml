@@ -5,6 +5,7 @@
     <color name="colorPrimaryDark">#0097A7</color>
     <color name="colorAccent">#FFEB3B</color>
     <color name="colorTextPrimary">#212121</color>
+    <color name="colorBackground">#009688</color>
 
     <color name="mdtp_accent_color">#FFEB3B</color>
     <color name="mdtp_accent_color_dark">#8f852c</color>

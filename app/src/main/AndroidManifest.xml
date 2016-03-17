@@ -20,6 +20,10 @@
         </activity>
 
         <activity android:name=".view.activity.StudentsActivity"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="621b835fc8a5cf3079ceaed86148ab6c19cb5ee8" />
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
