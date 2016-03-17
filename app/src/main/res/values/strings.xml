@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SimpleRealmAndroid</string>
+    <string name="app_name">RealmSample</string>
     <string name="action_settings">Settings</string>
     <string name="action_add_university">Add University</string>
     <string name="action_add_student">Add Student</string>
